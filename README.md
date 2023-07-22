@@ -10,6 +10,7 @@ key concepts used:
 5. one-directional flow between components(parent to child)
 6.destructing concept
 
+
 Technologies Used:
 React.js: The core library for building user interfaces.
 HTML/CSS: To structure and style the pizza menu components.
