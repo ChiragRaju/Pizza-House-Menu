@@ -5,19 +5,19 @@
 <p>key concepts used:</p>
 <br/>
 <ol>
-  <li>1.Props</li>
-  <li>2.Mapping method</li>
-  <li>3.ternary operators</li>
-  <li>4.template literals</li>
-  <li>5. one-directional flow between components(parent to child)</li>
-  <li>6.destructing concept</li>
+  <li>Props</li>
+  <li>Mapping method</li>
+  <li>ternary operators</li>
+  <li>template literals</li>
+  <li>one-directional flow between components(parent to child)</li>
+  <li>destructing concept</li>
 </ol>
 </br>
 
 <h2>Technologies Used:<h2/>
-React.js: The core library for building user interfaces.
-HTML/CSS: To structure and style the pizza menu components.
-JavaScript: For implementing logic and interactions.
+<li>React.js: The core library for building user interfaces.</li>
+<li>HTML/CSS: To structure and style the pizza menu components.</li>
+<li>JavaScript: For implementing logic and interactions.</li>
 <h2>One Directional Flow Structure</h2>
 <p>pizza-menu-react/</p>
 <ul>
