@@ -15,9 +15,12 @@
 </br>
 
 <h2>Technologies Used:<h2/>
+  <ol>
 <li>React.js: The core library for building user interfaces.</li>
 <li>HTML/CSS: To structure and style the pizza menu components.</li>
 <li>JavaScript: For implementing logic and interactions.</li>
+    </ol>
+    
 <h2>One Directional Flow Structure</h2>
 <p>pizza-menu-react/</p>
 <ul>
