@@ -3,7 +3,7 @@
 #This pizza menu project is a beginner-friendly web application built using React.js concepts. The goal of this project is to create an interactive pizza menu that displays various pizza options and allows users to orders. The project emphasizes the use of React.js features such as ternary operators, props, template literals, mapping methods to handle arrays of objects, and one-directional flow between components. 
 
 <p>key concepts used:</p>
-<br/>
+
 <ol>
   <li>Props</li>
   <li>Mapping method</li>
@@ -12,9 +12,9 @@
   <li>one-directional flow between components(parent to child)</li>
   <li>destructing concept</li>
 </ol>
-</br>
 
-<h2>Technologies Used:<h2/>
+
+<p>Technologies Used:<p/>
   <ol>
 <li>React.js: The core library for building user interfaces.</li>
 <li>HTML/CSS: To structure and style the pizza menu components.</li>
