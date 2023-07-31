@@ -1,6 +1,6 @@
-#This is the beginner level project which I applied react basics concepts after completing Fundamentals of react.... 
+<h4>This is the beginner level project which I applied react basics concepts after completing Fundamentals of react.... <h4/>
 
-#This pizza menu project is a beginner-friendly web application built using React.js concepts. The goal of this project is to create an interactive pizza menu that displays various pizza options and allows users to orders. The project emphasizes the use of React.js features such as ternary operators, props, template literals, mapping methods to handle arrays of objects, and one-directional flow between components. 
+<h4>#This pizza menu project is a beginner-friendly web application built using React.js concepts. The goal of this project is to create an interactive pizza menu that displays various pizza options and allows users to orders. The project emphasizes the use of React.js features such as ternary operators, props, template literals, mapping methods to handle arrays of objects, and one-directional flow between components. <h4/>
 </br>
 
 <p>key concepts used:</p>
