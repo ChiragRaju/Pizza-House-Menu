@@ -12,7 +12,7 @@
   <li>5. one-directional flow between components(parent to child)</li>
   <li>6.destructing concept</li>
 </ol>
-<br/>
+</br>
 
 <h2>Technologies Used:<h2/>
 React.js: The core library for building user interfaces.
