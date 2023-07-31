@@ -15,7 +15,8 @@ Technologies Used:
 React.js: The core library for building user interfaces.
 HTML/CSS: To structure and style the pizza menu components.
 JavaScript: For implementing logic and interactions.
-
+<li>
+<ul>
 one directional flow structure 
 pizza-menu-react/
 ├── src/
@@ -28,6 +29,7 @@ pizza-menu-react/
 │   └── App.js (Parent: None)
 ├── index.css
 └── other files...
-
+</ul>
+</li>
 
 
